@@ -1,0 +1,47 @@
+# NETWORKWALKS-WK2-PM-FINAL-REPORT
+NetworkWalks Week 2 Final Penetration Testing Report covering Footprinting and Network Scanning.
+# NetworkWalks Cybersecurity Internship – Week 2 Final Report
+
+## Project Overview
+This repository contains my Week 2 Final Penetration Testing Report for the NetworkWalks Cybersecurity Internship.
+
+The report documents the practical activities completed across two project modules:
+
+- **W2-PM1 – Footprinting:** Information gathering and reconnaissance using WHOIS, WhatWeb, NSLOOKUP, cURL, WAFW00F and DNSRecon.
+- **W2-PM5 – Network Scanning:** Local network discovery, host identification, scan analysis and network topology visualisation using Zenmap (Nmap).
+
+## Objectives
+- Understand the footprinting and reconnaissance process.
+- Practise using relevant information-gathering tools.
+- Identify active hosts within an authorised local network.
+- Analyse network scan results.
+- Document findings and practical evidence professionally.
+
+## Tools Used
+- Kali Linux
+- WHOIS
+- WhatWeb
+- NSLOOKUP
+- cURL
+- WAFW00F
+- DNSRecon
+- Zenmap (Nmap)
+- Windows Command Prompt
+
+## Report Contents
+The final report includes:
+- Project background and objectives.
+- Methodology for both completed modules.
+- Tools and techniques used.
+- Observations and findings.
+- Practical screenshots and supporting evidence.
+- Conclusion and learning outcomes.
+
+## Report File
+The completed Week 2 Final Penetration Testing Report is provided in PDF format in this repository.
+
+## Responsible Testing Statement
+All testing activities should be conducted only within the approved scope and with the appropriate permission of the relevant system or network owner.
+
+## Disclaimer
+This report is prepared for educational and internship documentation purposes as part of the NetworkWalks Cybersecurity Internship.
